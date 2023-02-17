@@ -50,7 +50,7 @@ For FewRel NYT
 python3 promptore.py promptore.py --seed=0 --n-rel=25 --max-len=500 --files "<path-to-fewrel>/val_nyt.json"
 ```
 
-For FewRel Pubmed
+For FewRel PubMed
 ```bash
 python3 promptore.py --seed=0 --n-rel=10 --max-len=250 --files "<path-to-fewrel>/val_pubmed.json"
 ```
@@ -67,7 +67,7 @@ For FewRel NYT
 python3 promptore.py --seed=0 --auto-n-rel --min-n-rel=2 --max-n-rel=100 --step-n-rel=2 --max-len=500 --files "<path-to-fewrel>/val_nyt.json"
 ```
 
-For FewRel Pubmed
+For FewRel PubMed
 ```bash
 python3 promptore.py --seed=0 --auto-n-rel --min-n-rel=2 --max-n-rel=100 --step-n-rel=2 --max-len=250 --files "<path-to-fewrel>/val_pubmed.json"
 ```

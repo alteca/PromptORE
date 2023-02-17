@@ -47,7 +47,7 @@ python3 promptore.py --seed=0 --n-rel=80 --max-len=150 --files "<path-to-fewrel>
 
 For FewRel NYT
 ```bash
-python3 promptore.py promptore.py --seed=0 --n-rel=25 --max-len=500 --files "<path-to-fewrel>/val_nyt.json"
+python3 promptore.py --seed=0 --n-rel=25 --max-len=500 --files "<path-to-fewrel>/val_nyt.json"
 ```
 
 For FewRel PubMed

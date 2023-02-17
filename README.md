@@ -78,7 +78,7 @@ The source code of PromptORE is licensed under the GPLv3 License. For more detai
 
 ```
 PromptORE
-Copyright (C) 2023 Alteca.
+Copyright (C) 2022-2023 Alteca.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

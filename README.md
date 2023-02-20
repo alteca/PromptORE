@@ -102,6 +102,10 @@ If you have questions using PromptORE, please e-mail us at pygenest@alteca.fr.
 
 If you make use of this code in your work, please kindly cite the following paper:
 
+<div class="csl-entry">Genest, Pierre-Yves, Pierre-Edouard Portier, Elöd Egyed-Zsigmond, and Laurent-Walter Goix. “PromptORE - A Novel Approach Towards Fully Unsupervised Relation Extraction.” In <i>Proceedings of the 31st ACM International Conference on Information and Knowledge Management</i>, 11. Atlanta, USA: ACM, 2022. <a href="https://doi.org/10.1145/3511808.3557422">https://doi.org/10.1145/3511808.3557422</a>.</div>
+
+<br/>
+
 ```bibtex
 @inproceedings{10.1145/3511808.3557422,
     author = {Genest, Pierre-Yves and Portier, Pierre-Edouard and Egyed-Zsigmond, El\"{o}d and Goix, Laurent-Walter},
@@ -119,7 +123,7 @@ If you make use of this code in your work, please kindly cite the following pape
     series = {CIKM '22}
 }
 ```
-
+  
 ## References
 
 <div class="csl-entry"><a name="cite-1"></a><b>[1]</b> Han, Xu, Hao Zhu, Pengfei Yu, Ziyun Wang, Yuan Yao, Zhiyuan Liu, and Maosong Sun. “Fewrel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation.” In <i>Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing</i>, 4803–9. Brussels, Belgium: Association for Computational Linguistics, 2018. <a href="https://doi.org/10.18653/v1/d18-1514">https://doi.org/10.18653/v1/d18-1514</a>.</div>
